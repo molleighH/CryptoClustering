@@ -7,10 +7,12 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 * I used the <samp>StandardScaler()</samp> module from <samp>scikit-learn</samp> to normalize the data from the CSV file.
 
 * I created a DataFrame with the scaled data & set the "coin_id" index from the original DataFrame as the index for the new DataFrame
-* * The first five rows of the scaled DataFrame appear as follows: 
+    * The first five rows of the scaled DataFrame appear as follows: 
 ![alt text][image]
 
 [image]: https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png?raw=true
+
+
 
 ## <ins>Requirements</ins>
 
