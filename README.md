@@ -8,14 +8,13 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 2. I created a DataFrame with the scaled data & set the "coin_id" index from the original DataFrame as the index for the new DataFrame
     * The first five rows of the scaled DataFrame appear as follows: 
-![alt text][image]
-
-[image]: https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png
+![alt text](https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png)
 
 3. I created a plot to visualize the data. 
-![alt text][image]
+<img src="https://github.com/molleighH/CryptoClustering/blob/main/Images/plot1.png">
 
-[image]: https://github.com/molleighH/CryptoClustering/blob/main/Images/plot1.png
+
+
 ## <ins>Requirements</ins>
 
 ### Find the Best Value for k by Using the Original Data (15 points)
