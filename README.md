@@ -1,7 +1,7 @@
 # CryptoClustering
-Module 19 Challenge 
+## Module 19 Challenge 
 
-## Requirements
+## <u>Requirements</u>
 
 ### Find the Best Value for k by Using the Original Data (15 points)
 ## To receive all points, you must:
