@@ -10,13 +10,12 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
     * The first five rows of the scaled DataFrame appear as follows: 
 ![alt text][image]
 
-[image]: https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png?raw=true
+[image]: https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png
 
 3. I created a plot to visualize the data. 
 ![alt text][image]
 
-[image]: https://github.com/molleighH/CryptoClustering/blob/main/Images/plot1.png?raw=true
-
+[image]: https://github.com/molleighH/CryptoClustering/blob/main/Images/plot1.png
 ## <ins>Requirements</ins>
 
 ### Find the Best Value for k by Using the Original Data (15 points)
