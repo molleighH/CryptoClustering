@@ -8,9 +8,9 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 * I created a DataFrame with the scaled data & set the "coin_id" index from the original DataFrame as the index for the new DataFrame
 * * The first five rows of the scaled DataFrame appear as follows: 
-<img align="right" width="700" height="200" src="https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png?raw=true">
+![alt text][image]
 
-
+[image]: https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png?raw=true
 
 <br></br><br></br>
 
