@@ -12,8 +12,6 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 [image]: https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png?raw=true
 
-<br></br><br></br>
-
 ## <ins>Requirements</ins>
 
 ### Find the Best Value for k by Using the Original Data (15 points)
