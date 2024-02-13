@@ -3,6 +3,13 @@
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 <img align="right" width="750" height="400" src="https://github.com/molleighH/CryptoClustering/blob/main/Images/cryptoclusteringdataimage.png">
 
+
+
+
+
+
+
+
 <br></br>
 ### Prepare the Data 
 
