@@ -1,6 +1,8 @@
 # CryptoClustering
 ## Module 19 Challenge 
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+<img align="right" width="800" height="300" src="https://github.com/molleighH/CryptoClustering/blob/main/Images/cryptoclusteringdataimage.png">
+
 
 ### Prepare the Data 
 
