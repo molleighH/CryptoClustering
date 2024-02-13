@@ -1,4 +1,4 @@
-<img align="center" width="750" height="400" src="https://github.com/molleighH/CryptoClustering/blob/main/Images/cryptoclusteringdataimage.png">
+<img align="right" width="750" height="400" src="https://github.com/molleighH/CryptoClustering/blob/main/Images/cryptoclusteringdataimage.png">
 
 # CryptoClustering
 ## Module 19 Challenge 
