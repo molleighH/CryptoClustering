@@ -11,7 +11,7 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 ![alt text](https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png)
 
 3. I created a plot to visualize the data. 
-<img src="https://github.com/molleighH/CryptoClustering/blob/main/Images/plot1.png">
+![alt text](https://github.com/molleighH/CryptoClustering/blob/main/Images/plot1.png)
 
 
 
