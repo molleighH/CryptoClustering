@@ -12,7 +12,7 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 <img align="right" width="700" height="200" src="https://github.com/molleighH/CryptoClustering/blob/main/Images/firstfiverowsscaleddata.png?raw=true">
 
-
+<br><br>
 
 ## <ins>Requirements</ins>
 
